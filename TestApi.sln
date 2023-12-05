@@ -5,8 +5,6 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApi", "TestApi.csproj", "{1AAFCB63-1E4E-44D2-814D-CA9E45F42484}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalCountingDB.Tests", "..\AnimalCountingDB.Tests\AnimalCountingDB.Tests.csproj", "{C11CA846-91CF-41A6-B6FF-9A18BBFD26F7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{1AAFCB63-1E4E-44D2-814D-CA9E45F42484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AAFCB63-1E4E-44D2-814D-CA9E45F42484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AAFCB63-1E4E-44D2-814D-CA9E45F42484}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C11CA846-91CF-41A6-B6FF-9A18BBFD26F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C11CA846-91CF-41A6-B6FF-9A18BBFD26F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C11CA846-91CF-41A6-B6FF-9A18BBFD26F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C11CA846-91CF-41A6-B6FF-9A18BBFD26F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
